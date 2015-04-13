@@ -1,2 +1,2 @@
 # fun-data-projects
-mostly curiosity driven
+for blogs etc.  mostly curiosity driven
